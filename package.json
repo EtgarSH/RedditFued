@@ -1,0 +1,17 @@
+{
+  "name": "RedditFued",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "firebase": "^3.3.0",
+    "lodash": "^4.15.0",
+    "react": "^0.14.8",
+    "react-native": "^0.25.1",
+    "react-native-navigation": "^1.0.28",
+    "redux-thunk": "^2.1.0",
+    "seamless-immutable": "^6.1.1"
+  }
+}
